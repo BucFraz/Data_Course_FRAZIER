@@ -7,3 +7,4 @@ focus st
 mazdaspeed3
 mazdaspeed6
 gti
+Acura RSX type S
