@@ -5,3 +5,4 @@ Fiesta st
 WRX
 focus st
 mazdaspeed3
+mazdaspeed6
